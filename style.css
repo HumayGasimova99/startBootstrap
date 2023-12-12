@@ -18,4 +18,14 @@ header nav a {
 }
 header nav a:hover {
   color: #eeeb39;
+}
+
+#meetyou .imgbox {
+  width: 100%;
+}
+#meetyou .imgbox img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }/*# sourceMappingURL=style.css.map */

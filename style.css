@@ -27,5 +27,9 @@ header nav a:hover {
   position: absolute;
   top: 0;
   left: 0;
+}
+#meetyou h1 {
+  font-size: 25px;
+  font-weight: 700;
   z-index: -1;
 }/*# sourceMappingURL=style.css.map */

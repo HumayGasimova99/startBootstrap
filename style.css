@@ -1,7 +1,8 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
-}
+  }
+
 
 header {
   background: #212529;
@@ -27,4 +28,26 @@ header nav ul li a {
 }
 header nav ul li a:hover {
   color: #dda712;
+}
+
+#meetyou .imgbox {
+  position: absolute;
+  top: -15px;
+  left: -95px;
+  overflow: hidden;
+  z-index: -1;
+}
+#meetyou h1 {
+  font-size: 30px;
+  z-index: 1;
+  color: white;
+  font-style: italic;
+}
+
+#services {
+  padding: 60px 0;
+}
+#services h1 {
+  font-weight: 700;
+  font-size: 45px;
 }/*# sourceMappingURL=style.css.map */

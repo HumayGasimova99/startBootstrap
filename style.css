@@ -4,15 +4,27 @@ body {
 }
 
 header {
-  background: #444343;
+  background: #212529;
 }
 header .imgbox {
-  width: 200px;
+  width: 145px;
+  margin: 15px 0;
 }
-header nav {
+header nav ul {
   width: 100%;
+  height: 70px;
 }
 header nav ul li {
   display: inline-block;
-  margin-left: 30px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0;
+  margin-left: 41px;
+}
+header nav ul li a {
+  font-size: 0.98rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header nav ul li a:hover {
+  color: #dda712;
 }/*# sourceMappingURL=style.css.map */

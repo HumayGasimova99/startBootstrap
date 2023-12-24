@@ -24,20 +24,4 @@ header .bgimg img {
   top: -5px;
   left: -10px;
   z-index: -1;
-}
-
-#meetyou .imgbox {
-  position: absolute;
-  top: -15px;
-  left: -95px;
-  overflow: hidden;
-  z-index: -1;
-}
-#meetyou h1 {
-  font-size: 30px;
-  color: white;
-  font-style: italic;
-}
-#meetyou h1, #meetyou h2 {
-  z-index: 1;
 }/*# sourceMappingURL=style.css.map */

@@ -4,8 +4,6 @@ body {
 }
 
 header {
-  width: 100%;
-  height: 68px;
   background: #212529;
 }
 header .imgbox {
@@ -37,15 +35,9 @@ header .bgimg img {
 }
 #meetyou h1 {
   font-size: 30px;
-  z-index: 1;
   color: white;
   font-style: italic;
 }
-
-#services {
-  padding: 60px 0;
-}
-#services h1 {
-  font-weight: 700;
-  font-size: 45px;
+#meetyou h1, #meetyou h2 {
+  z-index: 1;
 }/*# sourceMappingURL=style.css.map */
